@@ -19,7 +19,7 @@ Number of Meals: 4/5
 - Salt
 - Basil leaves
 
-## Preperation
+## Preparation
 
 1. Cut eggplant into slices ~2/3mm thick and sprinkle some salt
 2. Run slices through flour -> egg -> crumbs

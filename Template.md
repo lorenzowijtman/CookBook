@@ -12,8 +12,10 @@
 -
 -
 
-## Preperation
+## Preparation
 
 1.
 2.
 3.
+
+## Tips

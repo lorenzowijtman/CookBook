@@ -15,7 +15,7 @@ Marinated feta that goes nicely into a salad
 - 2 tbs Olive oil
 - 1tbs of sesame oil
 
-## Preperation
+## Preparation
 
 1. Dice feta cheese
 2. Throw all ingredients into a tupperware and mix well
