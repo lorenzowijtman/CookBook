@@ -24,3 +24,7 @@ Some super easy oven baked veggies for busy days
 4. Mix up the veggies a bit to make sur everything is evenly heated/ prepared
 5. Depending on your oven you might have to repeat this process 2 or 3 times until the veggies are bite ready.
 6. When the veggies are ready, throw the grated cheese on top and put back in the oven for another 5 min or until all the cheese has melted.
+
+## Tips
+
+Almost any spice can go into this mix as long as it doesn't overpower the cumin too much.
