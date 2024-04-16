@@ -18,6 +18,8 @@ Just a personal place for me to save recipes written in .md format. Most recipie
 
 [Oven Baked Veggies](<dinner/Oven Baked Veggies.md>)
 
+[Pasta Pesto](<dinner/Pasta Pesto.md>)
+
 [Portobello Burgers](<dinner/Portobello Burgers.md>)
 
 [Teriyaki Noodles](<dinner/Teriyaki Noodles.md>)
