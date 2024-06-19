@@ -23,7 +23,7 @@ Number of Meals: 4/5
 
 1. Cut eggplant into slices ~2/3mm thick and sprinkle some salt
 2. Run slices through flour -> egg -> crumbs
-3. Fry in oil
+3. Fry in oil or bake in the oven
 4. spread some red pesto on top
 5. add mozzerella on top
 6. throw some basil leaves on top
