@@ -12,7 +12,13 @@ Just a personal place for me to save recipes written in .md format. Most recipie
 
 [Golden Curry](<dinner/Golden Curry.md>)
 
+[Gyoza Soup](<dinner/Gyoza Soup.md>)
+
+[Honey Garlic Salmon](<dinner/Honey Garlic Salmon.md>)
+
 [Japanese Fried Rice](<dinner/Japanese Fried Rice.md>)
+
+[Karniyarik](dinner/Karniyarik.md)
 
 [Mushroom Soup](<dinner/Mushroom Soup.md>)
 
@@ -22,13 +28,21 @@ Just a personal place for me to save recipes written in .md format. Most recipie
 
 [Portobello Burgers](<dinner/Portobello Burgers.md>)
 
+[Shakshuka](dinner/Shakshuka.md)
+
+[Sweet potato & carrot soup](<dinner/Sweet Potato Soup.md>)
+
 [Teriyaki Noodles](<dinner/Teriyaki Noodles.md>)
+
+[The Goat](<dinner/The Goat.md>)
 
 ## Side dishes
 
 [Bacon Sprouts](<sides/Bacon Sprouts.md>)
 
 [Masala Mushrooms](<sides/Masala Mushrooms.md>)
+
+[Patatas Bravas](<sides/Patatas Bravas.md>)
 
 [Roasted Eggplant](<sides/Roasted Eggplant.md>)
 
