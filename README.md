@@ -46,6 +46,8 @@ Just a personal place for me to save recipes written in .md format. Most recipie
 
 [Roasted Eggplant](<sides/Roasted Eggplant.md>)
 
+[Spanish Grilled Chicken](<sides/Spanish Grilled Chicken.md>)
+
 [Tortilla de Patata](<sides/Totilla de Patata.md>)
 
 ## Sub recipies
